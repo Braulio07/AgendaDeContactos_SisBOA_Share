@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
     //saludar
     public void MetodoSaludar(){
-        Toast.makeText(getApplicationContext(), "Hola mundo", Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(), "Hola mundo ESTOY SALUDANDO", Toast.LENGTH_LONG).show();
     }
 
 
