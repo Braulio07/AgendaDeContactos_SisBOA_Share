@@ -1,4 +1,4 @@
-package com.example.mac.pruebacompartida_android;
+package com.example.mac.pruebacompartida_android.Tests;
 
 import org.junit.Test;
 
